@@ -1,0 +1,11 @@
+{
+    "default": "img1.png",
+    "playing":
+    [
+        "img2.png",
+        "img3.png"
+    ],
+    "playing_animation_delay_ms": 500,
+    "playing_animation_rand_perc": 75,
+    "playing_animation_randomize": false
+}
